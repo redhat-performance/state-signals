@@ -1,3 +1,5 @@
+# What is the purpose of this state-signals fork?
+
 # State/Event Signal Module
 A python package for handling state/event signals
 
